@@ -1,0 +1,20 @@
+Package: hesaba.covid
+Title: provide info for hesaba 
+Version: 0.0.1
+Authors@R: 
+    person(given = "mehdi",
+           family = "moosavi",
+           role = c("aut", "cre"),
+           email = "mahmoos2078@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: creat data and plot them!
+License: GPL-3
+imports: tidyverse,rnaturalearth,data.table,sf,rgeos,ggplot2
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
