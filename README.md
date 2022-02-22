@@ -22,7 +22,7 @@ devtools::install_github("smehdim/hesaba.covid")
 
 ## Examples
 
-you can get updated tidy data with using ‘updating\_data’:
+you can get updated tidy data  using ‘updating\_data’:
 
     ## # A tibble: 190 x 6
     ##    Country_Region      Last_Update         Confirmed Deaths Active Recovered
